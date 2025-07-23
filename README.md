@@ -37,6 +37,11 @@ A small JavaScript project that mimics the Instagram story feature. When you cli
 
 ---
 
+
+### 🌐 Live Demo  
+[Click here to view](https://coder-nikita.github.io/js-insta-story-clone-project/)
+
+
 ## 👩‍💻 Author
 
 Made with 💜 by **Nikita Gupta**  
